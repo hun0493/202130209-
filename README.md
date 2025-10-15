@@ -28,10 +28,10 @@
 ## 품질 기준
 - **성능**: LCP ≤ 2.0s, 화면 전환 ≤ 220ms
 - **사용성**: 빈 결과/오류 상태 UX 제공, 최소 터치 타깃 44×44px
-- **신뢰성**: 위치/즐겨찾기 등 민감 정보는 **로컬 저장**, 서버 전송 없음(현 버전)
+- **신뢰성**: 위치/즐겨찾기 등 민감 정보는 **로컬 저장**, 서버 전송 없음(현 버
 
 ---
 
 ## 링크
-- 🗂 **Notion 제출본**: https://www.notion.so/202130209-26f9a663a1f880458575e4f0a92f72d2?source=copy_link
+- 🗂 **Notion 제출본**:https://www.figma.com/make/Hx0qdme3TByOVdEHYG1MhH/Study-Space-Finder-App?node-id=0-1&p=f&t=xcYThWKVD6R0YTCn-0
 - 🗺 **지도 문서**: Kakao Map(https://apis.map.kakao.com/) · Naver Maps(https://api.ncloud-docs.com/docs/ai-naver-maps)
