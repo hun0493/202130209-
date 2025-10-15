@@ -33,6 +33,6 @@
 ---
 
 ## 링크
-- 🗂 **Notion 제출본**:https://www.figma.com/make/Hx0qdme3TByOVdEHYG1MhH/Study-Space-Finder-App?node-id=0-1&p=f&t=xcYThWKVD6R0YTCn-0
-                      :https://www.figma.com/community/file/1559133836458861940
+- 🗂 **Notion**:https://www.figma.com/make/Hx0qdme3TByOVdEHYG1MhH/Study-Space-Finder-App?node-id=0-1&p=f&t=xcYThWKVD6R0YTCn-0
+       Notion comumity:https://www.figma.com/community/file/1559133836458861940
 - 🗺 **지도 문서**: Kakao Map(https://apis.map.kakao.com/) · Naver Maps(https://api.ncloud-docs.com/docs/ai-naver-maps)
